@@ -8,4 +8,4 @@ To test rest-api -
 4) Allure report
 5) Config.ini
 6) Data Driven Testing
-7) Csv Data
+7) CSV Data
